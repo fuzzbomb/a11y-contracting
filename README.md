@@ -3,15 +3,15 @@ Building Accessibility Best Practices into Contracting
 
 ## Most RFPs that talk about accessibility include something like:
 
-    We require that all purchases be accessible according to the Web Accessibility Initiative 
-    (WAI) Web Content Accessibility Guidelines 2.0 AA. 
+> We require that all purchases be accessible according to the Web Accessibility Initiative 
+> (WAI) Web Content Accessibility Guidelines 2.0 AA. 
 
 **or**
 
-    All content, interfaces, and navigation elements to be used for this project must be 
-    compliant with Web Accessibility Initiative (WAI) Web Content Accessibility Guidelines 2.0 AA. 
-    Compliance means that a person with a disability can percieve, operate and understand the 
-    interface the same as a person without a disability.
+> All content, interfaces, and navigation elements to be used for this project must be 
+> compliant with Web Accessibility Initiative (WAI) Web Content Accessibility Guidelines 2.0 AA. 
+> Compliance means that a person with a disability can percieve, operate and understand the 
+> interface the same as a person without a disability.
 
 ## Concerns
 - Don't ask that a vendor commit to making a site meet a set accessibility target if there isn't a clearly defined set of deliverables or a flexible budget. 
